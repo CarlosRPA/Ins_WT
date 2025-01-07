@@ -1,6 +1,18 @@
 ```bash
 sudo apt-get update && sudo apt-get dist-upgrade -y
 ```
+LIMPEZA DE PACOTES OBSOLETOS
+
+```bash
+sudo apt-get dist-upgrade
+```
+
+RENICIAR VPS
+
+```bash
+sudo reboot
+```
+
 
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
