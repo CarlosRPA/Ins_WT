@@ -1,5 +1,5 @@
 ```bash
-sudo apt-get update && sudo apt-get upgrade -y
+sudo apt-get update && sudo apt-get dist-upgrade -y
 ```
 
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
