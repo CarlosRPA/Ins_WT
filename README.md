@@ -4,7 +4,7 @@ sudo apt-get update && sudo apt-get dist-upgrade -y
 LIMPEZA DE PACOTES OBSOLETOS
 
 ```bash
-sudo apt-get dist-upgrade
+sudo apt-get autoremove -y && sudo apt-get autoclean && sudo apt-get clean
 ```
 
 RENICIAR VPS
